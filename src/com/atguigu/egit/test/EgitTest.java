@@ -10,5 +10,6 @@ public class EgitTest {
 		System.out.println("哈哈哈");
 		System.out.println("怎么一直错啊");
 		System.out.println("我好了，你呢");
+		System.out.println("这次可一定要对啊啊啊啊啊啊啊啊啊");
 	}
 }
