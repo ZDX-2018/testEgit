@@ -7,5 +7,6 @@ public class EgitTest {
 		System.out.println("CCCCC");
 		System.out.println("bbbbb");
 		System.out.println("怎么了");
+		System.out.println("哈哈哈");
 	}
 }
